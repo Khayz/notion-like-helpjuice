@@ -1,4 +1,4 @@
-import { headersList } from '../headersList.js';
+import { headersList } from '../headerList.js';
 import { convertStringToHTMLNode, removeDropdown } from './helpers.js';
 import { clickListener } from './eventListeners.js';
 
